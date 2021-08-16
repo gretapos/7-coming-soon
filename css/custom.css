@@ -1,16 +1,16 @@
 /* base */
-@import './base/reset.css';
-@import './base/variables.css';
-@import './base/layout.css';
+@import './3rd-party/base/reset.css';
+@import './3rd-party/base/variables.css';
+@import './3rd-party/base/layout.css';
 
 /* 3rd-party */
 
 /* components */
-@import './components/button.css';
-@import './components/clock.css';
-@import './components/form.css';
-@import './components/mouse.css';
-@import './components/progress-bar.css';
+@import './3rd-party/components/button.css';
+@import './3rd-party/components/clock.css';
+@import './3rd-party/components/form.css';
+@import './3rd-party/components/mouse.css';
+@import './3rd-party/components/progress-bar.css';
 
 /* CUSTOM STYLE BELOW THIS COMMENT LINE */
 
